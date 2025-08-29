@@ -13,5 +13,5 @@ python prog.py
 ```
 
 Для работы программы требуется установка следующих библиотек:
-* razdel[https://natasha.github.io/razdel/]
-* pymorphy3[https://libraries.io/pypi/pymorphy3]
+* [razdel](https://natasha.github.io/razdel/)
+* [pymorphy3](https://libraries.io/pypi/pymorphy3)
